@@ -1,7 +1,7 @@
 #### AI & ML Paired with Finance
 
-Haider Gillani greets challenges with open arms, a global mindset, and a passion for learning, with the aim to bridge the dystopian gap between technology and human sustenance. 
-Haider is developing [**StarcAI**](https://github.com/haidergillani/STARC-AI-Sentiment-Modification-for-Financial-Communications): an AI-based financial communications software to help companies build investor confidence and trust. 
+Haider Gillani greets challenges with open arms, a global mindset, and a passion for learning, with the aim to bridge the dystopian gap between technology and human sustenance. <br>
+Haider is developing [**StarcAI**](https://github.com/haidergillani/STARC-AI-Sentiment-Modification-for-Financial-Communications): an AI-based financial communications software to help companies build investor confidence and trust. <br>
 Haider is also creating an AI Workspace Copilot for SMEs to book workspaces around the World at [NO HQ](https://www.nohq.co.uk/).
 
 As a student at Minerva University, the #1 most innovative and selective bachelor's program in the world (WURI, 2023), Haider has been to San Francisco, London, South Korea, Taiwan, and Argentina. 
