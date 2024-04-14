@@ -1,10 +1,14 @@
 #### AI & ML Paired with Finance
-Haider Gillani is an aspiring student of Artificial Intelligence who aims to bridge the dystopian gap between technology and human sustenance. 
 
-As a student at Minerva University, the #1 most innovative and selective bachelor's program in the world (WURI, 2023), Haider Gillani greets challenges with open arms, a global mindset, and a passion for learning.
+Haider Gillani greets challenges with open arms, a global mindset, and a passion for learning, with the aim to bridge the dystopian gap between technology and human sustenance. 
+Haider is developing [**StarcAI**](https://github.com/haidergillani/STARC-AI-Sentiment-Modification-for-Financial-Communications): an AI-based financial communications software to help companies build investor confidence and trust. 
+Haider is also creating an AI Workspace Copilot for SMEs to book workspaces around the World at [**NO HQ**](https://www.nohq.co.uk/).
 
-Haider has been to San Francisco, South Korea, Taiwan, and Argentina as part of his education, with exposure to companies like  [**SAMSUNG**](http://samsung.com/), [**TSMC**](https://www.tsmc.com/english), and [**Ethereum**](https://ethereum.org/en/). He has gained practical experience working on projects with companies like [**Kakao Ventures**](https://www.kakao.vc/), [**iD Tech**](https://www.idtech.com/), [**Vibemap**](https://vibemap.com/), and [**Taiwan Digital Diplomacy Association**](https://drive.google.com/file/d/1LhvkVBBzRkyPP0WYTHMpuKXmRnr5r_qU/view), doing collaborations with [NVIDIA](https://www.nvidia.com/en-us/), [University of Pennsylvania](https://www.upenn.edu/), and [Meta](https://www.meta.com/), in cities and local markets around the world.
+As a student at Minerva University, the #1 most innovative and selective bachelor's program in the world (WURI, 2023), Haider has been to San Francisco, London, South Korea, Taiwan, and Argentina. 
+This brought exposure to companies like  [**SAMSUNG**](http://samsung.com/), [**TSMC**](https://www.tsmc.com/english), and [**Ethereum**](https://ethereum.org/en/). Haider has gained practical experience working on projects with companies like [**NO HQ**](https://www.nohq.co.uk/), [**Kakao Ventures**](https://www.kakao.vc/), [**iD Tech**](https://www.idtech.com/), [**Vibemap**](https://vibemap.com/), and [**Taiwan Digital Diplomacy Association**](https://drive.google.com/file/d/1LhvkVBBzRkyPP0WYTHMpuKXmRnr5r_qU/view), doing collaborations with [NVIDIA](https://www.nvidia.com/en-us/), [University of Pennsylvania](https://www.upenn.edu/), and [Meta](https://www.meta.com/), in cities and local markets around the world.
 
-With global exposure to local markets around the world, Haider is a problem solver, currently developing an AI-based sentiment modification tool for financial communications called [**STARC**](https://github.com/haidergillani/STARC-AI-Sentiment-Modification-for-Financial-Communications)
+- Languages/Frameworks: Python, JavaScript, React, Flask, HTML, CSS, MySQL, Docker, Git
 
-To learn more visit: **https://haidergillani.com**
+- Contributions: NVIDIA: Training LLMs for Business, ALCF Student AI Supercomputing, iD Tech AI & Python Developer, Google Student Developer, Taiwanese Global Youth Forum 2022
+
+- To learn more please visit: **https://haidergillani.com**
